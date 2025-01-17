@@ -1,0 +1,2 @@
+C:\Guilherme\IST\24_25\VR\backup\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Guilherme\IST\24_25\VR\backup\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
